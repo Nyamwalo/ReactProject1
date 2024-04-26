@@ -1,0 +1,11 @@
+.inline-header {
+  color: blue;
+  background-color: rgb(42, 165, 44);
+  font: size 40px;
+}
+
+.outline-header {
+  color: blue;
+  background-color: rgba(128, 148, 28, 0.881);
+  font: size 100px;
+}

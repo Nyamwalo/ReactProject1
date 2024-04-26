@@ -1,0 +1,13 @@
+.footer {
+  position: sticky;
+  bottom: 0;
+  font-size: 2em;
+  font-weight: bold;
+  text-align: center;
+  width: 100;
+  background-color: lightgreen;
+  padding: 10px;
+}
+.item {
+  margin: 50px;
+}
